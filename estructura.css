@@ -1,0 +1,16 @@
+/*@media(max-width:500px){
+    h1{
+        font-size: 20px;
+    }
+}*/
+
+@media(min-width:520px) and (max-width:768px){
+    h1{
+        font-size: 20px;
+        color: blue;
+    }
+    img{
+        width: 200px;
+        height: 200px;
+    }
+}

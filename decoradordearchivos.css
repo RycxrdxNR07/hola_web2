@@ -1,0 +1,20 @@
+#parrafo1{
+    font-weight: bold; 
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+   
+   }
+p.parrafo2{
+ font-weight: bold; 
+ font-size: 25px;
+ text-transform: lowercase;
+ text-shadow: 40px 20px 0px red;
+}
+
+p.pa3{
+    font-family: "Comic Sans MS";
+    text-decoration: underline;
+    text-decoration-color: pink;
+    text-decoration-style: wavy;
+}
